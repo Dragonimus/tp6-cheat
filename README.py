@@ -6,7 +6,7 @@
 |----------------|
 |```python       |
 |x = 10          |
-|nombre = "Elias"|
+|nombre = "troch"|
 |----------------| 
 ##Tipos de Datos
 Enteros: int
@@ -79,7 +79,7 @@ Definición de Funciones
 def saludar(nombre):
     return f"Hola, {nombre}!"
 
-print(saludar("Maca"))  # Imprime: Hola, Maca!
+print(saludar("Moises"))  # Imprime: Hola, moises!
 
 
 5. Módulos y Paquetes
