@@ -6,7 +6,7 @@
 |----------------|
 |```python       |
 |x = 10          |
-|nombre = "Elias"|
+|nombre = "trochita"|
 |----------------| 
 ##Tipos de Datos
 Enteros: int
