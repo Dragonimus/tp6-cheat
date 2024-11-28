@@ -79,7 +79,7 @@ Definición de Funciones
 def saludar(nombre):
     return f"Hola, {nombre}!"
 
-print(saludar("Moises"))  # Imprime: Hola, moises!
+print(saludar("moises"))  # Imprime: Hola, Moises!
 
 
 5. Módulos y Paquetes
